@@ -1,0 +1,28 @@
+
+.menu {
+    background-color: #76636B;
+    height: 200px;
+}
+
+header{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.navar {
+    background-color: #76636B;
+    padding: 0%;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #76636B;
+}
+
+a{
+    color: #ffffff;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
