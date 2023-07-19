@@ -11,24 +11,24 @@ function Navar() {
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ">
             <li>
-              <a  href="/">{"Inicio"}</a>
+              <a className="nav-link nav-link-blue"  href="/">{"Inicio"}</a>
             </li>
             <li>
-              <a href="/diseno">{"Diseño inclusivo"}</a>
+              <a class="nav-link nav-link-yellow" href="/diseno">{"Diseño inclusivo"}</a>
             </li>
             <li >
-              <a  href="/trabajo">{"Trabajo"}</a>
+              <a class="nav-link nav-link-pink" href="/trabajo">{"Trabajo"}</a>
             </li >
             <li >
-              <a href="/directorio">
-                {"Directorio de proyectos y tencologías"}
+              <a class="nav-link nav-link-red" href="/directorio">
+                {"Directorio de tencologías"}
               </a>
             </li>
             <li >
-              <a  href="/modelo">{"Modelo antiopresión"}</a>
+              <a class="nav-link nav-link-aqua" href="/modelo">{"Antiopresión"}</a>
             </li>
             <li >
-              <a href="/recomendaciones">{"Recomendaciones"}</a>
+              <a class="nav-link nav-link-brown" href="/recomendaciones">{"Recomendaciones"}</a>
             </li>
           </ul>
           </div>

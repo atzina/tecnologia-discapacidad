@@ -20,9 +20,51 @@ header{
     background-color: #76636B;
 }
 
-a{
+a.nav-link {
     color: #ffffff;
     font-size: 23px;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
+    padding: 20px;
+    position: relative; /* Importante para el posicionamiento del pseudo-elemento */
+}
+
+/* mas bien esto podrí ser un media query para pantallas grandes*/
+
+a.nav-link::after {
+    content: ""; /* Importante para que aparezca el pseudo-elemento */
+    position: absolute; /* Posicionamiento absoluto respecto al elemento padre */
+    left: 0; /* Colocamos la barra al inicio del enlace */
+    bottom: 0; /* Colocamos la barra en la parte inferior del enlace */
+    width: 95%; /* Hacemos que la barra ocupe todo el ancho del enlace */
+    height: 3px; /* Altura de la barra */
+    transition: height 0.3s ease-out; /* Agregamos una transición para que crezca suavemente */
+}
+
+
+a.nav-link:hover::after {
+  
+    height: 7px;
+}
+
+.nav-link-blue::after{
+    background-color:#329FB1 ;
+}
+
+.nav-link-yellow::after{
+    background-color:#F3BA2F ;
+}
+
+.nav-link-pink::after{
+    background-color:#D17E88 ;
+}
+
+.nav-link-red::after{
+    background-color:#C24846 ;
+}
+
+.nav-link-aqua::after{
+    background-color: #13A79F ;
+}
+.nav-link-brown::after{
+    background-color: #BC8544 ;
 }
