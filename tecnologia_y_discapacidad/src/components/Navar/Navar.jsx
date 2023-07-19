@@ -1,14 +1,18 @@
 import "./Navar.css";
+import Icon from "../../assets/comunidad.png";
 
 function Navar() {
   return (
     <header className="menu">
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
+          <div className="div-icon">
+            <img className="icon-nav" src={Icon}></img>
+          </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <div class="collapse navbar-collapse div-nav" id="navbarNavDropdown">
           <ul class="navbar-nav ">
             <li>
               <a className="nav-link nav-link-blue"  href="/">{"Inicio"}</a>

@@ -22,13 +22,33 @@ header{
 
 a.nav-link {
     color: #ffffff;
-    font-size: 23px;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
-    position: relative; /* Importante para el posicionamiento del pseudo-elemento */
+}
+
+.div-nav {
+    height: 159px;
+    align-items: flex-end;
+}
+
+.icon-nav {
+    width: 35%;
+}
+.div-icon{
+    width: 20%;
+    height: 122px;
+    margin: 20px;
 }
 
 /* mas bien esto podrí ser un media query para pantallas grandes*/
+@media (min-width: 992px){
+
+    a.nav-link {
+        color: #ffffff;
+        font-size: 23px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 20px;
+        position: relative; /* Importante para el posicionamiento del pseudo-elemento */
+    }
 
 a.nav-link::after {
     content: ""; /* Importante para que aparezca el pseudo-elemento */
@@ -67,4 +87,6 @@ a.nav-link:hover::after {
 }
 .nav-link-brown::after{
     background-color: #BC8544 ;
+}
+
 }

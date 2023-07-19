@@ -1,0 +1,10 @@
+/*imagen encabezado*/
+
+main {
+    display: flex;
+    justify-content: center;
+}
+.image-persons {
+    transform: scaleX(1.3);
+    width: 50%;
+}
