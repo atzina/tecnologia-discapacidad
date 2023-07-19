@@ -1,7 +1,7 @@
 
 .menu {
     background-color: #76636B;
-    height: 200px;
+    height: 150px;
 }
 
 header{
@@ -26,16 +26,15 @@ a.nav-link {
 }
 
 .div-nav {
-    height: 159px;
-    align-items: flex-end;
+    
 }
 
 .icon-nav {
-    width: 35%;
+    width: 18%;
 }
 .div-icon{
     width: 20%;
-    height: 122px;
+    height: 64px;
     margin: 20px;
 }
 
