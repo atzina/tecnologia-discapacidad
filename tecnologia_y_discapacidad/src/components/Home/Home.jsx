@@ -86,7 +86,7 @@ function Home() {
           </a>
         </div>
         <div>
-        <p>Creado por Atzin G.A. (2023) &#169;</p>
+        <p className="ultimo">Creado por Atzin G.A. (2023) &#169;</p>
         </div>
       </footer>
     </>
