@@ -1,5 +1,6 @@
 import "./Home.css";
 import Persons from "../../assets/encabezado.jpg";
+import Icon from "../../assets/comunidad.png";
 
 function Home() {
   return (
@@ -26,7 +27,7 @@ function Home() {
       </section>
       <section className="section-ejes">
         <div className="ejes container">
-            <h5 className="title-ejes">EJES</h5>
+          <h5 className="title-ejes">EJES</h5>
           <div className="row">
             <div className="principio-gral col-12 col-md-4 col-lg-4">
               <h5>PRINCIPIO GENERAL</h5>
@@ -59,6 +60,35 @@ function Home() {
           </div>
         </div>
       </section>
+      <footer className="section-contacto d-flex flex-column align-items-center justify-content-center">
+        <div className="d-flex flex-column align-items-center justify-content-center div-icono-footer">
+          <img className="image-final" src={Icon}></img>
+        </div>
+        <div className="d-flex flex-column align-items-center justify-content-center div-text-footer">
+          <p>
+            Este proyecto está en construcción, todas las contribuciones,
+            comentarios e ideas son bien recibidas
+          </p>
+          <p>Contáctame</p>
+        </div>
+        <div className="d-flex flex-column align-items-center justify-content-center mail">
+          <a href="mailto:atzina@gmail.com" target="_blank" rel="noopener noreferrer">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="35"
+            height="35"
+            fill="currentColor"
+            class="bi bi-envelope-fill"
+            viewBox="0 0 16 16"
+          >
+            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+          </svg>
+          </a>
+        </div>
+        <div>
+        <p>Creado por Atzin G.A. (2023) &#169;</p>
+        </div>
+      </footer>
     </>
   );
 }

@@ -49,3 +49,51 @@ main {
 .recomendaciones {
     padding: 20px;
 }
+
+/* Footer */
+
+footer {
+    background-color: #433E48;
+}
+
+footer div {
+    margin:20px;
+}
+div-text-footer {
+    
+}
+
+footer p {
+    color:#D9D9D9
+}
+
+.image-final {
+    width: 10%;
+}
+
+.mail a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 50px;
+    transition: all 0.2s ease-in;
+    padding: 7px;
+}
+
+.mail svg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+
+.mail a:hover svg {
+    color:black;
+}
+
+.mail a:hover {
+    background-color: white;
+    border: 2px solid rgb(13, 110, 253);
+
+}
