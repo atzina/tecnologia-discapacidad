@@ -43,7 +43,7 @@ a.nav-link {
 
     a.nav-link {
         color: #ffffff;
-        font-size: 23px;
+        font-size: 17px;
         font-family: Arial, Helvetica, sans-serif;
         padding: 20px;
         position: relative; /* Importante para el posicionamiento del pseudo-elemento */
