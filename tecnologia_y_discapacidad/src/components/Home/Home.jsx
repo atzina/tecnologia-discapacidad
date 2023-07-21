@@ -64,7 +64,7 @@ function Home() {
         <div className="d-flex flex-column align-items-center justify-content-center div-icono-footer">
           <img className="image-final" src={Icon}></img>
         </div>
-        <div className="d-flex flex-column align-items-center justify-content-center div-text-footer">
+        <div className="d-flex flex-column justify-content-center div-text-footer">
           <p>
             Este proyecto está en construcción, todas las contribuciones,
             comentarios e ideas son bien recibidas

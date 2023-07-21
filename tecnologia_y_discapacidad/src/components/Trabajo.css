@@ -1,0 +1,17 @@
+
+.hero-trabajo {
+    margin:20px;
+    display: flex;
+}
+
+.titulo {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.titulo h1 {
+    font-size: 30px;
+}
+
