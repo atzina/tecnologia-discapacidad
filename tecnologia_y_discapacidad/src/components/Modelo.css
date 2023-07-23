@@ -1,0 +1,28 @@
+
+.title-model {
+    text-align: center;
+    
+}
+
+.principal-modelo {
+    display: flex;
+    margin: 30px;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;;
+}
+
+.pregunta-uno {
+    width: 200%;
+    padding: 20px;
+}
+
+
+.pregunta-dos {
+    width: 200%;
+    padding: 20px;
+}

@@ -18,7 +18,7 @@ function Navar() {
               <a className="nav-link nav-link-blue"  href="/">{"Inicio"}</a>
             </li>
             <li>
-              <a class="nav-link nav-link-yellow" href="/diseno">{"Diseño inclusivo"}</a>
+            <a class="nav-link nav-link-yellow" href="/modelo">{"Antiopresión"}</a>
             </li>
             <li >
               <a class="nav-link nav-link-pink" href="/trabajo">{"Trabajo"}</a>
@@ -29,7 +29,7 @@ function Navar() {
               </a>
             </li>
             <li >
-              <a class="nav-link nav-link-aqua" href="/modelo">{"Antiopresión"}</a>
+              <a class="nav-link nav-link-aqua" href="/diseno">{"Diseño inclusivo"}</a>
             </li>
             <li >
               <a class="nav-link nav-link-brown" href="/recomendaciones">{"Recomendaciones"}</a>

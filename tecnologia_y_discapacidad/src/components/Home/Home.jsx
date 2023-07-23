@@ -36,7 +36,7 @@ function Home() {
                 personas. Reconocemos que la tecnología subyacen valiosas
                 oportunidades no exploradas que pueden contrubuir al
                 empoderamiento de las personas con discapacidad, es obligación
-                de todas y todos de desarrollarlas.
+                de todas y todos desarrollarlas.
               </p>
             </div>
             <div className="modelo-antiopresion col-12 col-md-4 col-lg-4">
