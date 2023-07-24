@@ -12,8 +12,12 @@
 aside {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 80%;
     padding: 20px;;
+}
+
+.contenedor-preguntas {
+    display: flex;
 }
 
 .pregunta-uno {
@@ -25,4 +29,20 @@ aside {
 .pregunta-dos {
     width: 200%;
     padding: 20px;
+}
+
+.section-modelo h3 {
+    text-align: center;
+
+}
+
+.contendor-modelo {
+    display: flex;
+    width: 70%;
+    margin-left: 234px;
+}
+
+.section-modelo p {
+    text-align: center;
+
 }
