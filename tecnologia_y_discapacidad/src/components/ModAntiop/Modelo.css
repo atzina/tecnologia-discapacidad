@@ -1,7 +1,12 @@
 
 .title-model {
     text-align: center;
+    margin: 25px
     
+}
+
+.title-model h1 {
+    font-size: 2.1rem;
 }
 
 .principal-modelo {
@@ -16,9 +21,17 @@ aside {
     padding: 20px;;
 }
 
+aside a {
+    margin:10px;
+    font-size: 1.1rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .gral-dos {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .contenedor-preguntas {
@@ -40,6 +53,7 @@ aside {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 35px;
 }
 
 .contenedor-modelo h3 {
@@ -49,4 +63,13 @@ aside {
 .contenedor-modelo p {
     text-align: center;
     width: 80%;
+}
+
+.cuadroInfo {
+    width: 30rem ;
+    font-size: 1rem;
+}
+
+.card-body {
+    background-color:#8DD0DB;;
 }
