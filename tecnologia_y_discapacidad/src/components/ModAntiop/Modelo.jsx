@@ -4,7 +4,7 @@ function Modelo() {
   return (
     <>
       <div className="title-model">
-        <h1>Una mirada de atiopresión</h1>
+        <h1>Una mirada de antiopresión</h1>
       </div>
       <div className="principal-modelo conteiner">
         <aside>
@@ -59,9 +59,9 @@ function Modelo() {
           </div>
           <div className="cuadroInfo card" >
           <div className="card-body">
-            <h5 className="card-title">Referencia de información</h5>
-            <p className="card-text">La información aquí vertida está basada en el libro: "Beyond incluson, Beyond Empowerment. A developmental Satrategy to Liberate Everyone" basado en años de trabajo práctico y académico de Leticia Nieto. Para mas inforamción contáctame:</p>
-            <a href="#" className="card-link">Card link</a>
+            <h5 className="card-title">Referencia de esta información</h5>
+            <p className="card-text">El contenido aquí vertido tiene como base en el libro: "Beyond incluson, Beyond Empowerment. A developmental Satrategy to Liberate Everyone", construido en muchos años de trabajo práctico y académico de Leticia Nieto. Para mas información:</p>
+            <a href="https://beyondinclusionbeyondempowerment.com/about-the-book/" className="card-link">web del libro</a>
             
           </div>
           </div>

@@ -73,3 +73,21 @@ aside a {
 .card-body {
     background-color:#8DD0DB;;
 }
+
+@media (max-width: 768px){
+   .principal-modelo {
+    flex-direction: column-reverse;
+   }
+   .contenedor-preguntas {
+    flex-direction: column;
+    width: 30rem;
+}
+
+.contenedor-preguntas p {
+    width: 28rem;
+}
+}
+
+@media (max-width: 600px){
+   
+}
