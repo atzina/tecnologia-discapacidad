@@ -16,6 +16,11 @@ aside {
     padding: 20px;;
 }
 
+.gral-dos {
+    display: flex;
+    flex-direction: column;
+}
+
 .contenedor-preguntas {
     display: flex;
 }
@@ -31,18 +36,17 @@ aside {
     padding: 20px;
 }
 
-.section-modelo h3 {
-    text-align: center;
-
-}
-
-.contendor-modelo {
+.contenedor-modelo{
     display: flex;
-    width: 70%;
-    margin-left: 234px;
+    flex-direction: column;
+    align-items: center;
 }
 
-.section-modelo p {
+.contenedor-modelo h3 {
     text-align: center;
+}
 
+.contenedor-modelo p {
+    text-align: center;
+    width: 80%;
 }
