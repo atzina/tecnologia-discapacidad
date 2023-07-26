@@ -18,9 +18,9 @@ function Modelo() {
           </a>
         </aside>
 
-        <div className="gral-dos conteiner">
-          <div className="contenedor-preguntas">
-            <section className="pregunta-uno ">
+        <div className="gral-dos conteiner-fluid">
+          
+            <section className="pregunta-uno col-12 col-md-12 col-lg-12">
               <h3>¿Porqué incorporar un visión antiopresiva? </h3>
               <p>
                 En términos generales este espacio, entendemos la opresión como
@@ -30,7 +30,7 @@ function Modelo() {
                 mirada antiopresiva que pueda ir más allá de la inclusión.
               </p>
             </section>
-            <section className="pregunta-dos ">
+            <section className="pregunta-dos col-12 col-md-12 col-lg-12 ">
               <h3>¿Por que ir más allá de la inclusión?</h3>
               <p>
                 La inclusión supone muchas veces, que los miembros de los grupos
@@ -42,7 +42,7 @@ function Modelo() {
                 las estructuras que perpetuan la desigualdad.
               </p>
             </section>
-          </div>
+       
           <div className="contenedor-modelo">
             <h3>El Modelo</h3>
             <p>

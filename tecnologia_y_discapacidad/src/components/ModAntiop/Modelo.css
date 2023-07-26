@@ -41,12 +41,18 @@ aside a {
 .pregunta-uno {
     width: 200%;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin:10px;
 }
 
 
 .pregunta-dos {
     width: 200%;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin:10px;
 }
 
 .contenedor-modelo{
@@ -68,6 +74,7 @@ aside a {
 .cuadroInfo {
     width: 30rem ;
     font-size: 1rem;
+    text-align: center;
 }
 
 .card-body {
@@ -88,6 +95,20 @@ aside a {
 }
 }
 
-@media (max-width: 600px){
-   
+@media (max-width: 776px){
+    .pregunta-uno {
+        max-width: 300px;
+        
+    }
+    .pregunta-dos {
+        max-width: 300px;
+        
+    }
 }
+
+@media (max-width: 500px){
+    .cuadroInfo {
+        max-width: 220px;
+    }
+}
+
