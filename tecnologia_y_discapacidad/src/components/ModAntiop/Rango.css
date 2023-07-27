@@ -1,0 +1,80 @@
+
+.title-rango{
+    text-align: center;
+    margin:20px;
+}
+
+.contenedor-rango {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-rango p {
+    font-size: 1.1rem;
+    font-weight:600;
+}
+.contenedor-parrafouno{
+    margin:20px;
+    display: flex;
+    max-width: 70%;
+
+}
+
+.contenedor-parrafodos{
+    margin:20px;
+    display: flex;
+    max-width: 70%;
+
+}
+
+.contenedor-parrafouno p {
+    text-align: justify;
+}
+
+.contenedor-parrafodos p {
+    text-align: justify;
+}
+
+.contenedor-parrafotres {
+    margin:20px;
+    display: flex;
+    max-width: 70%;
+
+}
+.contenedor-parrafotres p {
+    text-align: justify;
+}
+
+.contenedor-parrafo-cuatro p {
+    text-align: justify;
+}
+
+
+.contenedor-parrafo-cuatro {
+    margin:20px;
+    display: flex;
+    max-width: 70%;
+
+}
+
+.contenedor-parrafo-cinco p {
+    text-align: justify;
+}
+
+
+.contenedor-parrafo-cinco {
+    margin:20px;
+    display: flex;
+    max-width: 70%;
+
+}
+
+.enlaces {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    font-size: 1.1rem;
+    font-weight:500;
+}

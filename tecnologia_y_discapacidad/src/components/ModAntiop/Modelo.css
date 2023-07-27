@@ -34,6 +34,8 @@ aside a {
     align-items: center;
 }
 
+
+
 .contenedor-preguntas {
     display: flex;
 }
@@ -44,6 +46,8 @@ aside a {
     display: flex;
     flex-direction: column;
     margin:10px;
+    font-size: 1.1rem;
+    font-weight:400;
 }
 
 
@@ -53,6 +57,8 @@ aside a {
     display: flex;
     flex-direction: column;
     margin:10px;
+    font-size: 1.1rem;
+    font-weight:400;
 }
 
 .contenedor-modelo{
@@ -60,6 +66,8 @@ aside a {
     flex-direction: column;
     align-items: center;
     margin: 35px;
+    font-size: 1.1rem;
+    font-weight:400;
 }
 
 .contenedor-modelo h3 {
