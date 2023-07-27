@@ -21,7 +21,8 @@ header{
 
 a.nav-link {
     color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+    text-transform: uppercase;
 }
 
 .icon-nav {
@@ -39,10 +40,12 @@ a.nav-link {
 
     a.nav-link {
         color: #ffffff;
-        font-size: 17px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        
         padding: 20px;
         position: relative; /* Importante para el posicionamiento del pseudo-elemento */
+        font-family: 'Source Sans 3', sans-serif;
+        text-transform: uppercase;
     }
 
 a.nav-link::after {

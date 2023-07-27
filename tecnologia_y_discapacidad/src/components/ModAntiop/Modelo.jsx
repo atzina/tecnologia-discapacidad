@@ -60,9 +60,9 @@ function Modelo() {
             <div className="card-body">
               <h5 className="card-title">Referencia de esta información</h5>
               <p className="card-text">
-                El contenido aquí vertido tiene como base en el libro: "Beyond
+                El contenido aquí vertido tiene como base en el libro: &quot;Beyond
                 incluson, Beyond Empowerment. A developmental Satrategy to
-                Liberate Everyone", construido en muchos años de trabajo
+                Liberate Everyone&quot;, construido en muchos años de trabajo
                 práctico y académico de Leticia Nieto. Para mas información:
               </p>
               <a

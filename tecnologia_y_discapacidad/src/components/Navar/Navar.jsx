@@ -24,7 +24,7 @@ function Navar() {
             </li >
             <li className= "nav-item">
               <a class="nav-link nav-link-red" href="/directorio">
-                {"Directorio de tencologías"}
+                {"Directorio de tecnologías"}
               </a>
             </li>
             <li className= "nav-item" >
