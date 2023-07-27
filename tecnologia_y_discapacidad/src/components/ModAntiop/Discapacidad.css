@@ -3,3 +3,25 @@
     text-align: center;
     margin: 30px;
 }
+
+.contenedor-discapacidad {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+}
+
+.contenedor-discapacidad p {
+    max-width: 70%;
+    text-align: justify;
+}
+
+.img-escuela {
+    display: flex;
+    justify-content: center;
+}
+
+.img-escuela img {
+    margin: 20px;
+
+}

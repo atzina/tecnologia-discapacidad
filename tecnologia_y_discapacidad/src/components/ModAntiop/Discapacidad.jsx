@@ -7,7 +7,10 @@ function Discapacidad() {
       <div className="title-disc">
         <h2>2. Discapacidad como una categoría de opresión</h2>
       </div>
-      <div>
+      <div className='img-escuela'>
+        <img src={Escuela}></img>
+      </div>
+      <div className='contenedor-discapacidad'>
         <p>
             La sociedad está orginizada para excluir y limitar las posibilidades de las personas con discapacidad, incluso las personas con discapacidades no visibles o consideradas &quot;leves&quot;.  La discacidad, a diferencia de la mayoría de la categorías de Rango, puede cambiar durante toda la vida. La pérdida de capacidad es intrínsecamente parte de le experiencia humana; una enfermedad, lesión o condición médica temporal puede convertir a cualquier persona en parte de un grupo marginado es decir infravalorado. La mayoría de las personas formaremos parte del grupo marginado por discapacidad en algún momento de nuestras vidas.
         </p>
@@ -30,9 +33,7 @@ function Discapacidad() {
             Un sintoma de esta resistencia es reconocer sólo la pérdida visible y pronunciada de pérdida de capacidad. Una posición antiopresiva sería reconocer que toda pérdida importa y el capacitismo afecta a todos los que experimentan una pérdida posible. El objetivo no es sugerir que la experiencia de pérdida de habilidad de cada persona es equivalente, si que la supremacía de habilidad afecta a todos los marginados por discapacidad.
         </p>
       </div>
-      <div>
-        <img src={Escuela}></img>
-      </div>
+     
     </>
   );
 }
