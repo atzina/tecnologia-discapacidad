@@ -5,7 +5,7 @@ function Rango () {
     return (
         <>
         <div className="title-rango">
-        <h2>La Máquina del Rango</h2>
+        <h2>1. La Máquina del Rango</h2>
         </div>
         <section className='contenedor-rango'>
         <div className= "contenedor-parrafouno">
@@ -46,7 +46,7 @@ function Rango () {
 
         <section className='enlaces'>
             <a href='/modelo'>ATRÁS</a>
-            <a href='/modelo/discapacidad'>SIGUIENTE -- 1. La discapacidad como categoría de opresión</a>
+            <a href='/modelo/discapacidad'>SIGUIENTE -- 2. La discapacidad como categoría de opresión</a>
         </section>
         
         </>

@@ -64,9 +64,15 @@ function Modelo() {
             <a href="https://beyondinclusionbeyondempowerment.com/about-the-book/" className="card-link">web del libro</a>
             
           </div>
+          
           </div>
+         
         </div>
+         
       </div>
+        <div className="enlace-uno">
+            <a href="/modelo/rango">SIGUIENTE - 1. La Máquina del rango</a>
+        </div>
     </>
   );
 }

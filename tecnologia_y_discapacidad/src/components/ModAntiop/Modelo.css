@@ -89,6 +89,14 @@ aside a {
     background-color:#8DD0DB;;
 }
 
+.enlace-uno {
+    display: flex;
+    margin:35px;
+    justify-content: end;
+    font-size: 1.1rem;
+    font-weight:500;
+}
+
 @media (max-width: 768px){
    .principal-modelo {
     flex-direction: column-reverse;
