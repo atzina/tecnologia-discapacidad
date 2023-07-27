@@ -78,3 +78,20 @@
     font-size: 1.1rem;
     font-weight:500;
 }
+
+@media (max-width: 500px){
+    .contenedor-rango p {
+        text-align: center;
+    }
+}
+
+@media (max-width: 700px){
+    .enlaces {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .enlaces a {
+        margin: 10px;
+    }
+}

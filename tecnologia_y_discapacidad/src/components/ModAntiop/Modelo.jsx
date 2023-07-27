@@ -10,7 +10,7 @@ function Modelo() {
         <aside>
           <a href="/modelo/rango">{"1. La máquina del Rango"}</a>
           <a href="/modelo/discapacidad">
-            {"2. La Disapacidad como categoría de opresión"}
+            {"2. La Discapacidad como categoría de opresión"}
           </a>
           <a href="/modelo/habilidades">{"3. Habilidades"}</a>
           <a href="/modelo/discytec">
