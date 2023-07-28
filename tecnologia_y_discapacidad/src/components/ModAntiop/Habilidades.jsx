@@ -7,7 +7,7 @@ function Habilidades () {
         <div className='title-habilidades'>
             <h2>3. habilidades para la antiopresión</h2>
         </div>
-        <div>
+        <div className='contenedor-hab'>
             <p>
                 El modelo que aquí seguimos propone la adquisición de habilidades necesarias para liberarnos de la opresión. Las habilidades antiopresivas como cualquier habilidad se pueden aprender, entre más aprendemos sobre dichas habilidades, más fuertes nos volvemos de cara a la incomodidad, ganamos efectividad en la capacidad de cambiar tanto nuestra visión del mundo como nuestro comportamiento y podemos alcanzar mayor profundidad al trabajar con personas cuyas experiencias difieren de las nuestras.
             </p>
@@ -24,13 +24,16 @@ function Habilidades () {
                 La meta no es tener acceso al nivel más sofisticado de habilidades antiopresivas veinticuatro horas al día, sin oampliar nuestro alcance de habilidades para poder contar con más opciones y que así, el acceso a un repertorio completo de habilidades sea más y más posible. Usaremos las habilidades más limitadas más frecuentemente, comportándonos de maneras que no desearíamos. Aumentar nuestro acceso a habilidades más amplias requiere intencionalidad, práctica y tiempo. El desarrollo de estas habilidades ocurre en el trascurso de los años y no puede obtenerse con una lectura, esto busca ser una provocación a que investigues busques y te dispongas a aprender. 
             </p>
 
-            <p>
-                Te invitamos a darle un vistazo a las habilidades y tratar de indenficarte con algunas de ellas.
-            </p>
+            <p>Te invitamos a darle un vistazo a las habilidades y tratar de indenficarte con algunas de ellas: Me identifico como:</p>
         </div>
-        <div >
-                <a href='/persona-discapacidad'>Soy persona con discapacidad</a>
-                <a href='/persona-sin-discapacidad'>Soy persona sin discapacidad</a>
+        <div className='links-habilidades'>           
+                <a href='/persona-discapacidad'>
+                    <span class="badge text-bg-info"> Persona con discapacidad</span>
+                </a>
+
+                <a href='/persona-sin-discapacidad'>
+                <span class="badge text-bg-info">Persona sin discapacidad</span>
+                </a>
         </div>
 
         <section className='enlaces'>

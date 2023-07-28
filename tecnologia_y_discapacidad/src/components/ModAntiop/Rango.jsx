@@ -46,7 +46,7 @@ function Rango () {
 
         <section className='enlaces'>
             <a href='/modelo'>ATRÁS</a>
-            <a href='/modelo/discapacidad'>SIGUIENTE -- 2. La discapacidad como categoría de opresión</a>
+            <a href='/modelo/discapacidad'>SIGUIENTE -- 2. La Discapacidad como categoría de opresión</a>
         </section>
         
         </>

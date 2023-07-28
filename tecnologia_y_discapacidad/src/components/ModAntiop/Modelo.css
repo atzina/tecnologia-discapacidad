@@ -107,6 +107,7 @@ aside a {
 @media (max-width: 768px){
    .principal-modelo {
     flex-direction: column-reverse;
+    max-width: 90%;
    }
    .contenedor-preguntas {
     flex-direction: column;
@@ -116,7 +117,12 @@ aside a {
 .contenedor-preguntas p {
     width: 28rem;
 }
+
+.contenedor-modelo p {
+    width: 100%;
 }
+}
+
 
 @media (max-width: 776px){
     .pregunta-uno {
