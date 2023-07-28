@@ -2,7 +2,7 @@
 function Habilidadesmarg () {
 
     return (
-        <h1>Persona con Discapacidad</h1>
+        <h2>Habilidades Antiopresivas para personas con Discapacidad</h2>
     )
 }
 

@@ -1,7 +1,7 @@
 
 function Habilidadesprivilegio () {
     return (
-        <h1>Soy persona sin discapacidad</h1>
+        <h2>Habilidades Atiopresivas para personas sin discapacidad</h2>
     )
 }
 
