@@ -11,6 +11,8 @@ import Rango from "./components/ModAntiop/Rango";
 import Discapacidad from "./components/ModAntiop/Discapacidad";
 import Habilidades from "./components/ModAntiop/Habilidades";
 import Discytec from "./components/ModAntiop/Discytec";
+import Habilidadesmarg from "./components/ModAntiop/Habilidadesmarg";
+import Habilidadesprivilegio from "./components/ModAntiop/Habilidadesprivilegio";
 
 
 function App() {
@@ -32,6 +34,10 @@ function App() {
           <Route path="/modelo/discapacidad" element ={<Discapacidad/>} exact />
           <Route path="/modelo/habilidades" element ={<Habilidades/>} exact />
           <Route path="/modelo/discytec" element ={<Discytec/>} exact />
+
+          <Route path= "/persona-discapacidad" element ={<Habilidadesmarg/>} exact/>
+          <Route path= "/persona-sin-discapacidad" element ={<Habilidadesprivilegio/>} exact/>
+
 
         </Routes>
         

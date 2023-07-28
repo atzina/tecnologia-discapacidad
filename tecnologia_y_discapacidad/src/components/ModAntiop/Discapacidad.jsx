@@ -46,7 +46,7 @@ function Discapacidad() {
       <section className='enlaces'>
             <a href='/modelo'>ATRÁS -- 1. La discapacidad como categoría de opresión</a>
             <a href='/modelo/habilidades'>SIGUIENTE -- 3. Habilidades</a>
-        </section>
+      </section>
      
     </>
   );
