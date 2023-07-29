@@ -27,6 +27,65 @@ function Habilidadesprivilegio () {
                 A continuación te presentamos algunas habilidades referidas a la Discapacidad, escoge la o las que más se acerquen a tu experiencia y sentir.
             </p>
          </div>
+         <div className='contendor-hab-priviegio'>
+            <p>
+                No sé mucho de las personas con discapacidad, no tengo problema con ser incluyente, pero sinceramente sería muy difícil para mí que una persona con discapacidad saliera con mi hija o hijo
+            </p>
+            <p>
+                Los respeto mucho pero yo no podría salir con una persona con discapacidad
+            </p>
+            <p>
+                No he tenido mucho contacto con personas con discapaciad, pero creo que todas son personas muy tiernas.
+            </p>
+            <p>
+                Ha sido difícil llegar hasta este punto de la información, honestamente me aburre un poco.
+            </p>
+            <p>
+                Creo que todos somos iguales, no debería haber diferencias entre las condiciones de mi compañero de trabajo y las mías, sus &quot;privilegios&quot;  me molestan un poco.
+            </p>
+            <p>
+                Creo en la inclusión, pero me enoja un poco que mi compañero con discapacidad falte tanto al trabajo
+            </p>
+            <p>
+                Creo que la depresión es solo una forma de llamar la atención y la forma en que las personas evitan sus responsabilidades
+            </p>
+            <p>
+                Yo sé lo que las personas con dispacadidad necesitan hacer, yo he vivido situaciones muy dificiles y las he superado así.
+            </p>
+            <p>
+                Quisera ser la voz de las persons con dispacidad, no soy cercano, a ninguna pero quisiera decir lo que ellos no pueden decir
+            </p>
+            <p>
+                Siento mucha incomodidad darme cuenta de como mi actuar afecta a las personas con discapacidad
+            </p>
+            <p>
+                Siento culpa de no saber a todo lo que se tiene que enfrentar una persona con autismo
+            </p>
+            <p>
+                Siento verguenza de haber sentido miedo de una persona con discapacidad mental 
+            </p>
+            <p>
+                Ahora me doy cuenta de qué no tengo idea de cómo te trata el mundo cuando tienes una discapacidad. ¿Me puedes decir más?
+            </p>
+            <p> 
+                Sé que no te entiendo, pero no sé qué hacer para ayudarte, voy a pensar más sobre eso
+            </p>
+            <p>
+                Ahora entiendo que nunca voy a poder entender a cabalidad la experiencia de una persona con Autismo
+            </p>
+            <p>
+                Decidí dedicar mi vida a hacer cosas para ayudar a las personas con discapaciad
+            </p>
+            <p>
+                Hago labor para que más personas sin discapacidad, entiendan sus privilegios y sus propias discriminaciones hacia las personas con discapacidad.
+            </p>
+            <p>
+                Escucho y entiendo lo que las personas con discpacidad me dicen, no impongo mis ideas de lo que es mejor para ellas y a hago acciones a partir de sus propias sugerencias e intereses
+            </p>
+            <p>
+                Uso mis propios privielgios para que las personas con discapaciad sean escuchadas, no hablo por ellas, genero espacios para que sus propias voces sean posibles.
+            </p>
+         </div>
         </>
     )
 }
