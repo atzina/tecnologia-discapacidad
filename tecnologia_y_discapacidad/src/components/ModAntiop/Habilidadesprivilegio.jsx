@@ -1,6 +1,6 @@
 import "./Habilidadesprivilegio.css";
 import { useState } from "react";
-import {Instrucciones} from "./Instrucciones";
+import Instrucciones from "./Instrucciones.jsx";
 
 function Habilidadesprivilegio() {
   const [mostrarDivs, setMostrarDivs] = useState(true);
