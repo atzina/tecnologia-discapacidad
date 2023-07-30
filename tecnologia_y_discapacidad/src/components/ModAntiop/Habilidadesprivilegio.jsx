@@ -8,8 +8,11 @@ function Habilidadesprivilegio() {
   const [mostrarParrafo1, setMostrarParrafo1] = useState(true);
   const [mostrarParrafo2, setMostrarParrafo2] = useState(true);
 
+  const [mostrarInfoAdicional, setMostrarInfoAdicional] = useState (false); // Al ocultar el parrafo 1, también ocultamos la información adicional
+
   const toggleMostrarDivs = () => {
     setMostrarDivs(!mostrarDivs);
+    setMostrarInfoAdicional (false);
   };
 
   const toogleMostrarParrafo1 = () => {
