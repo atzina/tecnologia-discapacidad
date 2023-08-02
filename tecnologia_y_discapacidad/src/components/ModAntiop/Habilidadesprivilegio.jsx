@@ -8,11 +8,8 @@ function Habilidadesprivilegio() {
   const [mostrarParrafo1, setMostrarParrafo1] = useState(true);
   const [mostrarParrafo2, setMostrarParrafo2] = useState(true);
 
-  const [mostrarInfoAdicional, setMostrarInfoAdicional] = useState (false); // Al ocultar el parrafo 1, también ocultamos la información adicional
-
   const toggleMostrarDivs = () => {
     setMostrarDivs(!mostrarDivs);
-    setMostrarInfoAdicional (false);
   };
 
   const toogleMostrarParrafo1 = () => {
@@ -21,7 +18,7 @@ function Habilidadesprivilegio() {
 
   const toggleMostrarParrafo2 = () => {
     setMostrarParrafo2(!mostrarParrafo2);
-  }
+  };
 
   return (
     <>
@@ -29,8 +26,8 @@ function Habilidadesprivilegio() {
         <h2>Habilidades Atiopresivas para personas sin discapacidad</h2>
       </div>
 
-      <Instrucciones/>
-  
+      <Instrucciones />
+
       <div className="hab-uno">
         <p>
           No sé mucho de las personas con discapacidad, no tengo problema con
@@ -66,10 +63,17 @@ function Habilidadesprivilegio() {
                 <button onClick={toggleMostrarParrafo2}>
                   {mostrarParrafo2 ? "Mostrar mas" : "Seguir con las otras"}{" "}
                 </button>
-                {mostrarParrafo2 && (
-                    <TresDespues/>
-                )}
+                {mostrarParrafo2 && <TresDespues />}
               </>
+            )}
+
+            {!mostrarParrafo1 && (
+              <div className="informacion-adicional">
+                <p>
+                  Esta es la información adicional que se muestra cuando se
+                  oculta el parrafo 1.
+                </p>
+              </div>
             )}
           </>
         )}
