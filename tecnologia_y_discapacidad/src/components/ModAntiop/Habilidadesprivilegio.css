@@ -25,3 +25,8 @@
     width: 80%;
     margin:30px;
 }
+
+.contenedor-accordion {
+    display: flex;
+    justify-content: center;
+}
