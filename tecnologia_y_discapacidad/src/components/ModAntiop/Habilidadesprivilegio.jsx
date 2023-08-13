@@ -12,7 +12,7 @@ function Habilidadesprivilegio() {
 
       <Instrucciones />
 
-      <div className="contendor-accordion">
+      <div className="contenedor-accordion">
         <div class="accordion" id="accordionExample">
           <div class="accordion-item">
             <h2 class="accordion-header">
@@ -147,7 +147,7 @@ function Habilidadesprivilegio() {
             >
               <div class="accordion-body">
                 <strong>
-                  Esta expresión corresponde a habilidades de Inclusión.
+                  Esta expresión corresponde a habilidades de .
                 </strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
@@ -175,7 +175,7 @@ function Habilidadesprivilegio() {
             >
               <div class="accordion-body">
                 <strong>
-                  Esta expresión corresponde a habilidades de Inclusión.
+                  Esta expresión corresponde a habilidades de .
                 </strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
@@ -202,7 +202,7 @@ function Habilidadesprivilegio() {
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
+                <strong>Esta expresión corresponde a habilidades de Distanciamiento .</strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
             </div>
