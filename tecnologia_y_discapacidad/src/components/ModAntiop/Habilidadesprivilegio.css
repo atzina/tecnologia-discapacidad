@@ -20,3 +20,8 @@
 .despues-pregunta-uno {
  /* display: none;*/
 }
+
+.accordion {
+    width: 80%;
+    margin:30px;
+}
