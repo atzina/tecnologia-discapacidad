@@ -52,6 +52,9 @@ function Habilidadesprivilegio() {
                 {mostrarParrafo1 ? "Mostrar mas" : "Seguir con las otras"}{" "}
               </button>
             </div>
+
+        
+
             {mostrarParrafo1 && (
               <>
                 <div className="hab-tres">
@@ -67,7 +70,7 @@ function Habilidadesprivilegio() {
               </>
             )}
 
-            {!mostrarParrafo1 && (
+            {!mostrarParrafo1 && !mostrarDivs && (
               <div className="informacion-adicional">
                 <p>
                   Esta es la información adicional que se muestra cuando se
