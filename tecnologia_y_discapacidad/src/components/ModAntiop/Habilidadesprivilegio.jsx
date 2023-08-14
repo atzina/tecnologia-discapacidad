@@ -1,7 +1,11 @@
 import "./Habilidadesprivilegio.css";
-
 import Instrucciones from "./Instrucciones.jsx";
 //import TresDespues from "./TresDespues";
+import Distanciamiento from "./Distanciamiento";
+import Indiferencia from "./Indiferencia";
+import Inclusion from "./Inclusion";
+import Conciencia from "./Conciencia";
+import Alianza from "./Alianza";
 
 function Habilidadesprivilegio() {
   return (
@@ -12,12 +16,13 @@ function Habilidadesprivilegio() {
 
       <Instrucciones />
 
+
       <div className="contenedor-accordion">
-        <div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+        <div className="accordion" id="accordionExample">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button"
+                className="accordion-button"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseOne"
@@ -31,21 +36,21 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseOne"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Distanciamiento.
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-distanciamiento">aquí</a>
               </div>
             </div>
           </div>
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo"
@@ -58,21 +63,21 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseTwo"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Distanciamiento.
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-distanciamiento">aquí</a>
               </div>
             </div>
           </div>
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseThree"
@@ -85,22 +90,22 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseThree"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Distanciamiento..
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-distanciamiento">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseFour"
@@ -113,22 +118,22 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseFour"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Indiferencia..
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-indiferencia">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseFive"
@@ -142,10 +147,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseFive"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de .
                 </strong>{" "}
@@ -154,10 +159,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseSix"
@@ -170,10 +175,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseSix"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de .
                 </strong>{" "}
@@ -182,10 +187,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseSeven"
@@ -198,20 +203,20 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseSeven"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>Esta expresión corresponde a habilidades de Distanciamiento .</strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseEight"
@@ -224,20 +229,20 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseEight"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseNine"
@@ -251,20 +256,20 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseNine"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseTen"
@@ -277,10 +282,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseTen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Conciencia.
                 </strong>{" "}
@@ -289,10 +294,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseEleven"
@@ -305,10 +310,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseEleven"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Conciencia.
                 </strong>{" "}
@@ -317,10 +322,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseTwelve"
@@ -333,10 +338,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseTwelve"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Conciencia.
                 </strong>{" "}
@@ -345,10 +350,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseThirteen"
@@ -361,10 +366,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseThirtheen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Conciencia.
                 </strong>{" "}
@@ -373,10 +378,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseFourteen"
@@ -389,10 +394,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseFourteen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Conciencia.
                 </strong>{" "}
@@ -401,10 +406,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseFiveteen"
@@ -417,20 +422,20 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseFiveteen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
                 Consulta más sobre estas habilidades <a href="#">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseSixteen"
@@ -443,22 +448,22 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseSixteen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-alianza">aquí</a>
               </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseSeventeen"
@@ -472,10 +477,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseSeventeen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
@@ -484,10 +489,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseEighteen"
@@ -501,10 +506,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseEighteen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
@@ -513,10 +518,10 @@ function Habilidadesprivilegio() {
             </div>
           </div>
 
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseNineteen"
@@ -530,10 +535,10 @@ function Habilidadesprivilegio() {
             </h2>
             <div
               id="collapseNineteen"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#accordionExample"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
@@ -543,6 +548,17 @@ function Habilidadesprivilegio() {
           </div>
         </div>
       </div>
+
+     <Indiferencia/>
+
+     <Distanciamiento/>
+
+     <Inclusion/>
+
+     <Conciencia/>
+
+     <Alianza/>
+
     </>
   );
 }
