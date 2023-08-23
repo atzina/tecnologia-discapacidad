@@ -3,6 +3,7 @@ function Alianza() {
     <>
       <a name="ancla-alianza"></a>
       <h2>Habilidades de Alianza</h2>
+      
     </>
   );
 }

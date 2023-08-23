@@ -152,9 +152,9 @@ function Habilidadesprivilegio() {
             >
               <div className="accordion-body">
                 <strong>
-                  Esta expresión corresponde a habilidades de .
+                  Esta expresión corresponde a habilidades de Inclusión.
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-inclusion">aquí</a>
               </div>
             </div>
           </div>
@@ -180,9 +180,9 @@ function Habilidadesprivilegio() {
             >
               <div className="accordion-body">
                 <strong>
-                  Esta expresión corresponde a habilidades de .
+                  Esta expresión corresponde a habilidades de Inclusión .
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-inclusion">aquí</a>
               </div>
             </div>
           </div>
@@ -484,7 +484,7 @@ function Habilidadesprivilegio() {
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-alianza">aquí</a>
               </div>
             </div>
           </div>
@@ -513,7 +513,7 @@ function Habilidadesprivilegio() {
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-alianza">aquí</a>
               </div>
             </div>
           </div>
@@ -542,7 +542,7 @@ function Habilidadesprivilegio() {
                 <strong>
                   Esta expresión corresponde a habilidades de Alianza .
                 </strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-alianza">aquí</a>
               </div>
             </div>
           </div>
