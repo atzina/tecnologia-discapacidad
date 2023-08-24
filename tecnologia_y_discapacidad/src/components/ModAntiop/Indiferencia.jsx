@@ -3,6 +3,10 @@ function Indiferencia() {
     <>
       <a name="ancla-indiferencia"></a>
       <h2>Habilidades de Indiferencia</h2>
+      <p>Postura física: Encoger los hombros</p>
+      <p>
+        Sentimiento/Sensación: Sueño, pereza.
+      </p>
       <p>Si te has identificado con esta frase, es muy probable que te uses estas habilidades de manera más frecuente o sea el máximo nivel de habilidades al que tengas acceso.</p>
 
       <p>

@@ -3,6 +3,8 @@ function Distanciamiento() {
     <>
       <a name="ancla-distanciamiento"></a>
       <h2>Habilidades de Distanciamiento</h2>
+      <p>Postura física: Extender los brazos, con las palmas hacia afuera y hacia abajo, como si empujara algo hacia abajo o tapara algo</p>
+      <p>Sentimiento/Sensación: Desdén, repugnancia. </p>
       <p>Si te has identificado con esta frase, es muy probable que te encuentres en este conjunto de habilidades</p>
 
       <p>
