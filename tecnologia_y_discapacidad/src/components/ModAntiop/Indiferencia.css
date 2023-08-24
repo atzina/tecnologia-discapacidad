@@ -1,0 +1,12 @@
+.contenedor-indiferencia {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+}
+
+.contenedor-indiferencia p {
+    max-width: 70%;
+    text-align: justify;
+    font-size: 1.1rem;
+}
