@@ -39,7 +39,7 @@ function Habilidades () {
         <section className='enlaces'>
             <a href='/modelo/discapacidad'>ATRÁS -- 2. La discapacidad como categoría de opresión</a>
             <a href='/modelo/discytec'>SIGUIENTE -- 4 Discapacidad y Tecnología.</a>
-      </section>
+        </section>
         </>
     )
 }

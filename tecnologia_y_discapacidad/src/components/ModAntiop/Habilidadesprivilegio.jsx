@@ -29,7 +29,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="true"
                 aria-controls="collapseOne"
               >
-                No sé mucho de las personas con discapacidad, no tengo problema
+               1. No sé mucho de las personas con discapacidad, no tengo problema
                 con ser incluyente, pero sinceramente sería muy difícil para mí
                 que una persona con discapacidad saliera con mi hija o hijo
               </button>
@@ -57,7 +57,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseTwo"
               >
-                Los respeto mucho pero yo no podría salir con una persona con
+                2. Los respeto mucho pero yo no podría salir con una persona con
                 discapacidad
               </button>
             </h2>
@@ -84,7 +84,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseThree"
               >
-                No he tenido mucho contacto con personas con discapaciad, pero
+                3. No he tenido mucho contacto con personas con discapaciad, pero
                 sobretodo creo que todas son personas muy tiernas.
               </button>
             </h2>
@@ -112,7 +112,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseFour"
               >
-                Ha sido difícil llegar hasta este punto de la información,
+                4. Ha sido difícil llegar hasta este punto de la información,
                 honestamente me aburre un poco.
               </button>
             </h2>
@@ -140,7 +140,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseFive"
               >
-                Creo que todos somos iguales, no debería haber diferencias entre
+                5. Creo que todos somos iguales, no debería haber diferencias entre
                 las condiciones de mi compañero de trabajo y las mías, sus
                 &quot;privilegios&quot; me molestan un poco.
               </button>
@@ -169,7 +169,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseSix"
               >
-                Creo en la inclusión, pero me enoja un poco que mi compañero con
+                6. Creo en la inclusión, pero me enoja un poco que mi compañero con
                 discapacidad falte tanto al trabajo
               </button>
             </h2>
@@ -197,7 +197,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseSeven"
               >
-                Creo que la depresión es solo una forma de llamar la atención y
+                7. Creo que la depresión es solo una forma de llamar la atención y
                 la forma en que las personas evitan sus responsabilidades
               </button>
             </h2>
@@ -223,7 +223,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseEight"
               >
-                Yo sé lo que las personas con dispacadidad necesitan hacer, yo
+                8. Yo sé lo que las personas con dispacadidad necesitan hacer, yo
                 he vivido situaciones muy dificiles y las he superado así.
               </button>
             </h2>
@@ -249,7 +249,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseNine"
               >
-                Quisera ser la voz de las personas con dispacidad, no soy
+                9. Quisera ser la voz de las personas con dispacidad, no soy
                 cercano, a ninguna pero quisiera decir lo que ellos no pueden
                 decir
               </button>
@@ -276,7 +276,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseTen"
               >
-                Siento mucha incomodidad darme cuenta de cómo mi actuar afecta a
+               10. Siento mucha incomodidad darme cuenta de cómo mi actuar afecta a
                 las personas con discapacidad
               </button>
             </h2>
@@ -304,7 +304,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseEleven"
               >
-                Siento culpa de no saber a todo lo que se tiene que enfrentar
+                11. Siento culpa de no saber a todo lo que se tiene que enfrentar
                 una persona con autismo
               </button>
             </h2>
@@ -332,7 +332,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseTwelve"
               >
-                Siento verguenza de haber sentido miedo de una persona con
+                12. Siento verguenza de haber sentido miedo de una persona con
                 discapacidad mental
               </button>
             </h2>
@@ -360,7 +360,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseThirteen"
               >
-                Ahora me doy cuenta de qué no tengo idea de cómo te trata el
+                13. Ahora me doy cuenta de qué no tengo idea de cómo te trata el
                 mundo cuando tienes una discapacidad. ¿Me puedes decir más?
               </button>
             </h2>
@@ -388,7 +388,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseFourteen"
               >
-                Sé que no te entiendo, pero no sé qué hacer para ayudarte, voy a
+                14. Sé que no te entiendo, pero no sé qué hacer para ayudarte, voy a
                 pensar más sobre eso
               </button>
             </h2>
@@ -416,7 +416,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseFiveteen"
               >
-                Ahora entiendo que nunca voy a poder entender a cabalidad la
+                15. Ahora entiendo que nunca voy a poder entender a cabalidad la
                 experiencia de una persona con Autismo
               </button>
             </h2>
@@ -442,7 +442,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseSixteen"
               >
-                Decidí dedicar mi vida a hacer cosas para ayudar a las personas
+                16. Decidí dedicar tiempo a hacer cosas para acompñar a las personas
                 con discapaciad
               </button>
             </h2>
@@ -470,7 +470,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseSeventeen"
               >
-                Hago labor para que más personas sin discapacidad, entiendan sus
+                17. Hago labor para que más personas sin discapacidad, entiendan sus
                 privilegios y sus propias discriminaciones hacia las personas
                 con discapacidad.
               </button>
@@ -499,7 +499,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseEighteen"
               >
-                Escucho y entiendo lo que las personas con discpacidad me dicen,
+                18. Escucho y entiendo lo que las personas con discpacidad me dicen,
                 no impongo mis ideas de lo que es mejor para ellas y a hago
                 acciones a partir de sus propias sugerencias e intereses
               </button>
@@ -528,9 +528,8 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseNineteen"
               >
-                Uso mis propios privielgios para que las personas con
-                discapaciad sean escuchadas, no hablo por ellas, genero espacios
-                para que sus propias voces sean posibles.
+                19. Uso mis propios privielgios para que las personas con
+                discapaciad sean escuchadas, no hablo por ellas.
               </button>
             </h2>
             <div
@@ -558,6 +557,11 @@ function Habilidadesprivilegio() {
      <Conciencia/>
 
      <Alianza/>
+
+     <section className='enlaces'>
+            <a href='/modelo/habilidades'>ATRÁS -- 3. Habilidades para la Antiopresión</a>
+            <a href='/modelo/discytec'>SIGUIENTE -- 4 Discapacidad y Tecnología.</a>
+     </section>
 
     </>
   );
