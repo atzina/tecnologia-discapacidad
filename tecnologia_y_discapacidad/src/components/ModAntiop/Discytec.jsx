@@ -1,8 +1,14 @@
+import './Discytec.css'
 
 function Discytec () {
 
     return (
-        <h1>¿Cómo sería la tecnología desde una mirada antiopresiva?</h1>
+        <>
+            <div className='contenedor-tecantiop'>
+            <h2>¿Cómo sería la tecnología desde una mirada antiopresiva?</h2>
+            </div>
+          
+        </>
     )
 }
 
