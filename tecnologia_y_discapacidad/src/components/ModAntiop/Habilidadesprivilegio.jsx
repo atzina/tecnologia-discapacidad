@@ -208,7 +208,7 @@ function Habilidadesprivilegio() {
             >
               <div className="accordion-body">
                 <strong>Esta expresión corresponde a habilidades de Distanciamiento .</strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                Consulta más sobre estas habilidades <a href="#ancla-distanciamiento">aquí</a>
               </div>
             </div>
           </div>
@@ -233,8 +233,8 @@ function Habilidadesprivilegio() {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body">
-                <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                <strong>Esta expresión corresponde a habilidades de Inclusión .</strong>{" "}
+                Consulta más sobre estas habilidades <a href="#ancla-inclusion">aquí</a>
               </div>
             </div>
           </div>
@@ -249,9 +249,7 @@ function Habilidadesprivilegio() {
                 aria-expanded="false"
                 aria-controls="collapseNine"
               >
-                9. Quisera ser la voz de las personas con dispacidad, no soy
-                cercano, a ninguna pero quisiera decir lo que ellos no pueden
-                decir
+                9. Quisera dar la voz de las personas con dispacidad.
               </button>
             </h2>
             <div
@@ -260,8 +258,8 @@ function Habilidadesprivilegio() {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body">
-                <strong>Esta expresión corresponde a habilidades de .</strong>{" "}
-                Consulta más sobre estas habilidades <a href="#">aquí</a>
+                <strong>Esta expresión corresponde a habilidades de Inclusión.</strong>{" "}
+                Consulta más sobre estas habilidades <a href="#ancla-Inclusión">aquí</a>
               </div>
             </div>
           </div>

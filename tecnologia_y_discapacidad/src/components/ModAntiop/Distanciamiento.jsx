@@ -13,7 +13,7 @@ function Distanciamiento() {
         <p>Si te has identificado con esta frase, es muy probable que te encuentres en este conjunto de habilidades</p>
 
         <p>
-          Estando en distanciamiento nos damos cuenta de la desigualgualdad y quiza un poco de la opresión que ejercemos a las personas con discapcidad pero reaccionamos alejándonos. No alejamos del conocimiento y la conciencia de la opresión, porque no sabemos que hacer con las implicaciones que esto puede traer a nosotros mismos.
+          Estando en distanciamiento nos damos cuenta de la desigualdad y quiza un poco de la opresión que ejercemos a las personas con discapcidad pero reaccionamos alejándonos. No alejamos del conocimiento y la conciencia de la opresión, porque no sabemos que hacer con las implicaciones que esto puede traer a nosotros mismos.
         </p>
 
         <p>
@@ -21,7 +21,7 @@ function Distanciamiento() {
         </p>
 
         <p>
-          Esta habilidad nos permite mantenernos seuros y proteger nuestro espacios de cualquier información sobre las condiciones en que las personas viven y sobre nuestros privilegios sobre ellas. Usando estas habilides hacemos poco esfuerzo para aprender sobre los problemas de las personas con discapcidad, no buscamos involucrarnos ni saber más de ellos.
+          Esta habilidad nos permite mantenernos seguros y proteger nuestro espacios de cualquier información sobre las condiciones en que las personas viven y sobre nuestros privilegios sobre ellas. Usando estas habilides hacemos poco esfuerzo para aprender sobre los problemas de las personas con discapcidad, no buscamos involucrarnos ni saber más de ellos.
         </p>
 
         <p>
