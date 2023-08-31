@@ -1,6 +1,24 @@
+.title-tecanti {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+    padding: 20px;
+}
+
 .contenedor-tecantiop {
     display: flex;
     flex-direction: column;
     margin: 30px;
     align-items: center;
+}
+
+.contenedor-tecantiop p {
+    max-width: 70%;
+    text-align: justify;
+    font-size: 1.1rem;
+}
+
+.contenedor-tecantiop h3{
+    max-width: 70%;
 }
