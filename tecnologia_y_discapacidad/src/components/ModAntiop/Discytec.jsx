@@ -10,11 +10,14 @@ function Discytec () {
             <div className='contenedor-tecantiop'>
             
                 <p>
-                    Si llegaste hasta este punto, te habrá dado cuenta que la antiopresión frente a la discpacidad es un tema complejo, que requiere mucho esfuerzo y compromiso, es imposible agotarlo en poco tiempo o solo abordando materiales como este. Sin embargo, es importante arriesgar un poco la voluntad y la imaginación, para marcar pequeños puntos a los que podemos aspirar a llegar para avanzar en nuestras habilidades antiopresivas frente a las personas con discapacidad desde el mundo de la tecnología.
+                    Si llegaste hasta este punto, te habrá dado cuenta que la antiopresión frente a la discpacidad es un tema complejo, que requiere mucho esfuerzo y compromiso, es imposible agotarlo en poco tiempo . Sin embargo, es importante arriesgar un poco la voluntad y la imaginación, para marcar pequeños puntos a los que podemos aspirar a llegar para avanzar en nuestras habilidades antiopresivas frente a las personas con discapacidad desde el mundo de la tecnología.
+                </p>
+                <p>
+                    Esta propuesta está en construcción, si tienes alguna sugerencia o idea, aquí será bien recibida. A continuación algunos puntos a considerar para avanzar en una mirada antiopresiva para las personas con discapacidad en la tencología:
                 </p>
                 <h3>1. RECONOCER NUESTROS PRIVILEGIOS FRENTE A LAS PERSONAS CON DISCAPACIDAD</h3>
                 <p>
-                    Como personas sin discapacidad el reconocer nuestras ventajas sobre las personas con discapacidad no es un camino fácil, porque como vimos en la descripción de las habilidades, tenemos estos aspectos y actitudes inconcientes. El comenzar a verlos por pequeño que sea el avance puede llevarnos a la necesidad de esforzarnos en adquirir otros paquetes de habilidades.
+                    Como personas sin discapacidad el reconocer nuestras ventajas sobre las personas con discapacidad no es un camino fácil, porque como vimos en la descripción de las habilidades, tenemos estos aspectos y actitudes inconscientes. El comenzar a verlos por pequeño que sea el avance puede llevarnos a la necesidad de esforzarnos en adquirir otros paquetes de habilidades.
                 </p>
                 <p>
                     Preguntarnos, ¿Cómo esto me beneficia a mí, y directamente no beneficia a una persona con discapacidad, puede ser un buen ejercicio diario para mover nuestros pensamientos y empezar a cuestionar nuestro quehacer.
@@ -24,7 +27,7 @@ function Discytec () {
                     Ubicarnos dentro del marco de modelo de habilidades antiopresivas, puede ayudarnos a tener una perspectiva de dónde nos encontramos y qué es lo que necesitamos trabajar.
                 </p>
                 <p>
-                    Una personas que tiene desarrolladas las habilidades más basicas (indiferencia), no puede dar un salto mortal a las habilidades de conciencia proque no tiene las herramientas para ejercerlas. En cambio, si una persona se identifica con las habilidades de distanciamiento, sabe que para alcanzar las habilidades siguientes necesita empezar a notar que hay personas con discapacidad a su al rededor y empezar a notar cómo lo hace sentir esto. Solo así ejerciendo cada una de las habilidades puede llegar desarrollarlas todas.
+                    Una personas que tiene desarrolladas las habilidades más basicas (indiferencia), no puede dar un gran salto hasta las habilidades de conciencia proque no tiene las herramientas para ejercerlas. En cambio, si una persona se identifica con las habilidades de distanciamiento, sabe que para alcanzar las habilidades siguientes necesita empezar a notar que hay personas con discapacidad a su al rededor y empezar a notar cómo lo hace sentir esto. Solo así, ejerciendo cada una de las habilidades puede llegar desarrollarlas más.
                 </p>
                 <h3>3. INCORPORAR LA CONCIENCIA SOBRE NUESTROS PRIVILEGIOS CUANDO DESARROLLAMOS TECNOLOGÍA</h3>
                 <p>
@@ -39,12 +42,16 @@ function Discytec () {
                 </p>
                 <h3>5. ACERCARNOS A ESPACIOS DONDE LAS PERSONAS CON DISCPACIDAD HAGAN Y USEN LA TECNOLOGÍA</h3>
                 <p>
-                   ¿ Dónde están?, ¿quiénes son?, ¿qué dicen? 
+                   ¿ Dónde están? ¿Quiénes son? ¿Qué dicen? 
                 </p>
                 <h3>6. TRABAJAR EN NUESTRAS HABILIDADES PARA DESARROLLAR ENTORNOS NO OPRESIVOS PARA PERSONAS CON DISCAPACIDAD</h3>
                 <p>
                     El esfuerzo es fundamental en este camino, para trabajar efectivamente nuestras habilidades es importante buscar espacios para acompañarnos de otros que también estén dispuestos a hacerlo. Contáctame para saber más al respecto.
                 </p>
+                <h6>
+                    Te invito a explorar los otras secciones de este espacio, el trabajo, o el directorio de otras tecnologías para personas con discpacidad, que proponen redondear la forma en que se puede plantear pasos para avanzar en ir más allá de la inclusión de personas con discpacidad.
+
+                </h6>
 
             </div>
           
